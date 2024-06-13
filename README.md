@@ -1,1 +1,1 @@
-# Graphics-Console
+# Graphics Console
